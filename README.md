@@ -1,2 +1,2 @@
 # RobotEye
-Designed a software architecture for a multi-hardware platform, distributed system, named “Robot Eye” using Rational Software Architect 
+Designed a software architecture for a multi-hardware platform, distributed system, named “Robot Eye”. In this project, Rational Software Architect was used to create UML diagrams:  Class diagram (for modules/components of subsystems), Interaction (Sequence or Communication) diagram (for collaborations or interactions), State Machine diagram (for component behaviors), and Component and Deployment diagrams (for allocation and deployment).
